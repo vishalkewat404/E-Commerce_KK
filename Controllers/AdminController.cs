@@ -7,7 +7,9 @@ namespace E_Commerce.Controllers
     {
         // GET: AdminController
         public ActionResult AdminDashBoard()
-        {//////
+        {
+
+            ////rammmm syamm
             return View();
         }
 
