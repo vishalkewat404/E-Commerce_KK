@@ -1,0 +1,73 @@
+﻿@* @using Microsoft.AspNetCore.Http
+@inject IHttpContextAccessor HttpContextAccessor *@
+
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<meta name="author" content="Untree.co">
+	<link rel="shortcut icon" href="~/favicon.png">
+
+	<meta name="description" content="" />
+	<meta name="keywords" content="bootstrap, bootstrap4" />
+
+	<!-- Bootstrap CSS -->
+	<link href="~/css/bootstrap.min.css" rel="stylesheet" />
+	<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+	<link href="~/css/tiny-slider.css" rel="stylesheet" />
+	<link href="~/css/style.css" rel="stylesheet" />
+
+	<title>Admin Dashboard - Furni</title>
+</head>
+
+<body>
+
+	<!-- Start Header/Navigation -->
+	<nav class="navbar navbar-expand-md navbar-dark bg-dark">
+		<div class="container-fluid">
+			<a class="navbar-brand" href="#">Furni Admin</a>
+			<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#adminNavbar" aria-controls="adminNavbar" aria-expanded="false" aria-label="Toggle navigation">
+				<span class="navbar-toggler-icon"></span>
+			</button>
+
+			<div class="collapse navbar-collapse" id="adminNavbar">
+				<ul class="navbar-nav me-auto mb-2 mb-md-0">
+					<li class="nav-item"><a class="nav-link" href="/Admin/Home">Dashboard</a></li>
+					<li class="nav-item"><a class="nav-link" href="/Admin/Users">Users</a></li>
+					<li class="nav-item"><a class="nav-link" href="/Admin/Products">Products</a></li>
+					<li class="nav-item"><a class="nav-link" href="/Admin/Orders">Orders</a></li>
+					<li class="nav-item"><a class="nav-link" href="/Admin/Reports">Reports</a></li>
+				</ul>
+
+				<ul class="navbar-nav ms-auto mb-2 mb-md-0">
+					<li class="nav-item text-white me-3">
+						@{
+							var adminName = Context.Session.GetString("User_Name") ?? "Admin";
+							if (!string.IsNullOrEmpty(adminName))
+							{
+								<text>Welcome, @adminName</text>
+							}
+						}
+					</li>
+					<li class="nav-item"><a class="nav-link" href="/Admin/Logout">Logout</a></li>
+				</ul>
+			</div>
+		</div>
+	</nav>
+	<!-- End Header/Navigation -->
+	<!-- Main Content -->
+	<div class="container-fluid mt-4">
+		@RenderBody()
+	</div>
+
+	<!-- Footer Section -->
+	<footer class="footer-section bg-dark text-white mt-4 p-3 text-center">
+		<p class="mb-0">&copy; <script>document.write(new Date().getFullYear());</script> Furni Admin Dashboard. All Rights Reserved.</p>
+	</footer>
+
+	<script src="~/js/bootstrap.bundle.min.js"></script>
+	<script src="~/js/tiny-slider.js"></script>
+	<script src="~/js/custom.js"></script>
+</body>
+</html>

@@ -1,0 +1,67 @@
+﻿@{
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+    ViewData["Title"] = "Admin Dashboard";
+    // Get admin name from session
+    var adminName = Context.Session.GetString("User_Name") ?? "Admin";
+}
+
+<div class="container-fluid">
+    <!-- Welcome Section -->
+    <div class="mb-4 p-3 bg-light rounded shadow-sm">
+        <h2>Welcome, @adminName!</h2>
+        <p>Here’s a quick overview of your E-Commerce store.</p>
+    </div>
+
+    <div class="row mt-4">
+        <!-- Users Count Card -->
+        <div class="col-md-3">
+            <div class="card text-white bg-primary mb-3">
+                <div class="card-body">
+                    <h5 class="card-title">Users</h5>
+                    <p class="card-text">1</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Products Count Card -->
+        <div class="col-md-3">
+            <div class="card text-white bg-success mb-3">
+                <div class="card-body">
+                    <h5 class="card-title">Products</h5>
+                    <p class="card-text">1</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Add more dashboard cards here (Orders, Revenue, etc.) -->
+
+    </div>
+
+    <!-- Example: Table of recent orders -->
+    <div class="row mt-4">
+        <div class="col-12">
+            <h3>Recent Orders</h3>
+            <table class="table table-bordered">
+                <thead>
+                    <tr>
+                        <th>Order ID</th>
+                        <th>User</th>
+                        <th>Total Amount</th>
+                        <th>Status</th>
+                        <th>Date</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>101</td>
+                        <td>John Doe</td>
+                        <td>$150</td>
+                        <td>Pending</td>
+                        <td>2025-09-16</td>
+                    </tr>
+                    <!-- Add dynamic data from DB here -->
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
