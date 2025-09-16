@@ -1,0 +1,417 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Krishna\\Project\\E-Commerce\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\E-Commerce.bundle.scp.css",
+      "PackagePath": "staticwebassets\\E-Commerce.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Krishna\\Project\\E-Commerce\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Krishna\\Project\\E-Commerce\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Krishna\\Project\\E-Commerce\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\Krishna\\Project\\E-Commerce\\wwwroot\\css\\tiny-slider.css",
+      "PackagePath": "staticwebassets\\css\\tiny-slider.css"
+    },
+    {
+      "Id": "D:\\Krishna\\Project\\E-Commerce\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Krishna\\Project\\E-Commerce\\wwwroot\\images\\bag.svg",
+      "PackagePath": "staticwebassets\\images\\bag.svg"
+    },
+    {
+      "Id": "D:\\Krishna\\Project\\E-Commerce\\wwwroot\\images\\bowl-2.png",
+      "PackagePath": "staticwebassets\\images\\bowl-2.png"
+    },
+    {
+      "Id": "D:\\Krishna\\Project\\E-Commerce\\wwwroot\\images\\bowl-3.png",
+      "PackagePath": "staticwebassets\\images\\bowl-3.png"
+    },
+    {
+      "Id": "D:\\Krishna\\Project\\E-Commerce\\wwwroot\\images\\cart.svg",
+      "PackagePath": "staticwebassets\\images\\cart.svg"
+    },
+    {
+      "Id": "D:\\Krishna\\Project\\E-Commerce\\wwwroot\\images\\couch.png",
+      "PackagePath": "staticwebassets\\images\\couch.png"
+    },
+    {
+      "Id": "D:\\Krishna\\Project\\E-Commerce\\wwwroot\\images\\cross.svg",
+      "PackagePath": "staticwebassets\\images\\cross.svg"
+    },
+    {
+      "Id": "D:\\Krishna\\Project\\E-Commerce\\wwwroot\\images\\dots-green.svg",
+      "PackagePath": "staticwebassets\\images\\dots-green.svg"
+    },
+    {
+      "Id": "D:\\Krishna\\Project\\E-Commerce\\wwwroot\\images\\dots-light.svg",
+      "PackagePath": "staticwebassets\\images\\dots-light.svg"
+    },
+    {
+      "Id": "D:\\Krishna\\Project\\E-Commerce\\wwwroot\\images\\dots-yellow.svg",
+      "PackagePath": "staticwebassets\\images\\dots-yellow.svg"
+    },
+    {
+      "Id": "D:\\Krishna\\Project\\E-Commerce\\wwwroot\\images\\envelope-outline.svg",
+      "PackagePath": "staticwebassets\\images\\envelope-outline.svg"
+    },
+    {
+      "Id": "D:\\Krishna\\Project\\E-Commerce\\wwwroot\\images\\img-grid-1.jpg",
+      "PackagePath": "staticwebassets\\images\\img-grid-1.jpg"
+    },
+    {
+      "Id": "D:\\Krishna\\Project\\E-Commerce\\wwwroot\\images\\img-grid-2.jpg",
+      "PackagePath": "staticwebassets\\images\\img-grid-2.jpg"
+    },
+    {
+      "Id": "D:\\Krishna\\Project\\E-Commerce\\wwwroot\\images\\img-grid-3.jpg",
+      "PackagePath": "staticwebassets\\images\\img-grid-3.jpg"
+    },
+    {
+      "Id": "D:\\Krishna\\Project\\E-Commerce\\wwwroot\\images\\person-1.jpg",
+      "PackagePath": "staticwebassets\\images\\person-1.jpg"
+    },
+    {
+      "Id": "D:\\Krishna\\Project\\E-Commerce\\wwwroot\\images\\person-1.png",
+      "PackagePath": "staticwebassets\\images\\person-1.png"
+    },
+    {
+      "Id": "D:\\Krishna\\Project\\E-Commerce\\wwwroot\\images\\person_1.jpg",
+      "PackagePath": "staticwebassets\\images\\person_1.jpg"
+    },
+    {
+      "Id": "D:\\Krishna\\Project\\E-Commerce\\wwwroot\\images\\person_2.jpg",
+      "PackagePath": "staticwebassets\\images\\person_2.jpg"
+    },
+    {
+      "Id": "D:\\Krishna\\Project\\E-Commerce\\wwwroot\\images\\person_3.jpg",
+      "PackagePath": "staticwebassets\\images\\person_3.jpg"
+    },
+    {
+      "Id": "D:\\Krishna\\Project\\E-Commerce\\wwwroot\\images\\person_4.jpg",
+      "PackagePath": "staticwebassets\\images\\person_4.jpg"
+    },
+    {
+      "Id": "D:\\Krishna\\Project\\E-Commerce\\wwwroot\\images\\post-1.jpg",
+      "PackagePath": "staticwebassets\\images\\post-1.jpg"
+    },
+    {
+      "Id": "D:\\Krishna\\Project\\E-Commerce\\wwwroot\\images\\post-2.jpg",
+      "PackagePath": "staticwebassets\\images\\post-2.jpg"
+    },
+    {
+      "Id": "D:\\Krishna\\Project\\E-Commerce\\wwwroot\\images\\post-3.jpg",
+      "PackagePath": "staticwebassets\\images\\post-3.jpg"
+    },
+    {
+      "Id": "D:\\Krishna\\Project\\E-Commerce\\wwwroot\\images\\product-1.png",
+      "PackagePath": "staticwebassets\\images\\product-1.png"
+    },
+    {
+      "Id": "D:\\Krishna\\Project\\E-Commerce\\wwwroot\\images\\product-2.png",
+      "PackagePath": "staticwebassets\\images\\product-2.png"
+    },
+    {
+      "Id": "D:\\Krishna\\Project\\E-Commerce\\wwwroot\\images\\product-3.png",
+      "PackagePath": "staticwebassets\\images\\product-3.png"
+    },
+    {
+      "Id": "D:\\Krishna\\Project\\E-Commerce\\wwwroot\\images\\return.svg",
+      "PackagePath": "staticwebassets\\images\\return.svg"
+    },
+    {
+      "Id": "D:\\Krishna\\Project\\E-Commerce\\wwwroot\\images\\sofa.png",
+      "PackagePath": "staticwebassets\\images\\sofa.png"
+    },
+    {
+      "Id": "D:\\Krishna\\Project\\E-Commerce\\wwwroot\\images\\support.svg",
+      "PackagePath": "staticwebassets\\images\\support.svg"
+    },
+    {
+      "Id": "D:\\Krishna\\Project\\E-Commerce\\wwwroot\\images\\truck.svg",
+      "PackagePath": "staticwebassets\\images\\truck.svg"
+    },
+    {
+      "Id": "D:\\Krishna\\Project\\E-Commerce\\wwwroot\\images\\user.svg",
+      "PackagePath": "staticwebassets\\images\\user.svg"
+    },
+    {
+      "Id": "D:\\Krishna\\Project\\E-Commerce\\wwwroot\\images\\why-choose-us-img.jpg",
+      "PackagePath": "staticwebassets\\images\\why-choose-us-img.jpg"
+    },
+    {
+      "Id": "D:\\Krishna\\Project\\E-Commerce\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Krishna\\Project\\E-Commerce\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "D:\\Krishna\\Project\\E-Commerce\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Krishna\\Project\\E-Commerce\\wwwroot\\js\\tiny-slider.js",
+      "PackagePath": "staticwebassets\\js\\tiny-slider.js"
+    },
+    {
+      "Id": "D:\\Krishna\\Project\\E-Commerce\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Krishna\\Project\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Krishna\\Project\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Krishna\\Project\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Krishna\\Project\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Krishna\\Project\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Krishna\\Project\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Krishna\\Project\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Krishna\\Project\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Krishna\\Project\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Krishna\\Project\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Krishna\\Project\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Krishna\\Project\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Krishna\\Project\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Krishna\\Project\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Krishna\\Project\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Krishna\\Project\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Krishna\\Project\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Krishna\\Project\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Krishna\\Project\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Krishna\\Project\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Krishna\\Project\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Krishna\\Project\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Krishna\\Project\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Krishna\\Project\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Krishna\\Project\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Krishna\\Project\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Krishna\\Project\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Krishna\\Project\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Krishna\\Project\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Krishna\\Project\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Krishna\\Project\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Krishna\\Project\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Krishna\\Project\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Krishna\\Project\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Krishna\\Project\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Krishna\\Project\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Krishna\\Project\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Krishna\\Project\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Krishna\\Project\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Krishna\\Project\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Krishna\\Project\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Krishna\\Project\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Krishna\\Project\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Krishna\\Project\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Krishna\\Project\\E-Commerce\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Krishna\\Project\\E-Commerce\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Krishna\\Project\\E-Commerce\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Krishna\\Project\\E-Commerce\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Krishna\\Project\\E-Commerce\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Krishna\\Project\\E-Commerce\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Krishna\\Project\\E-Commerce\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Krishna\\Project\\E-Commerce\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Krishna\\Project\\E-Commerce\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Krishna\\Project\\E-Commerce\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Krishna\\Project\\E-Commerce\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Krishna\\Project\\E-Commerce\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\Krishna\\Project\\E-Commerce\\wwwroot\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\scss\\style.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.E-Commerce.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.E-Commerce.props",
+      "PackagePath": "build\\E-Commerce.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.E-Commerce.props",
+      "PackagePath": "buildMultiTargeting\\E-Commerce.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.E-Commerce.props",
+      "PackagePath": "buildTransitive\\E-Commerce.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
