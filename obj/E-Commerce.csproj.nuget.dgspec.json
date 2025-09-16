@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Krishna\\Project\\E-Commerce\\E-Commerce.csproj": {}
+    "D:\\Krishna\\Project\\E-Commerce_KK\\E-Commerce.csproj": {}
   },
   "projects": {
-    "D:\\Krishna\\Project\\E-Commerce\\E-Commerce.csproj": {
+    "D:\\Krishna\\Project\\E-Commerce_KK\\E-Commerce.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Krishna\\Project\\E-Commerce\\E-Commerce.csproj",
+        "projectUniqueName": "D:\\Krishna\\Project\\E-Commerce_KK\\E-Commerce.csproj",
         "projectName": "E-Commerce",
-        "projectPath": "D:\\Krishna\\Project\\E-Commerce\\E-Commerce.csproj",
+        "projectPath": "D:\\Krishna\\Project\\E-Commerce_KK\\E-Commerce.csproj",
         "packagesPath": "C:\\Users\\91840\\.nuget\\packages\\",
-        "outputPath": "D:\\Krishna\\Project\\E-Commerce\\obj\\",
+        "outputPath": "D:\\Krishna\\Project\\E-Commerce_KK\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\91840\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,6 +54,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[9.0.9, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.7, )"
             }
           },
           "imports": [
